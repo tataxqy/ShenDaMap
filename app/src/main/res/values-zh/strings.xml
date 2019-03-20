@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShenDaMap</string>
+
+    <string name="text_map">地图</string>
+    <string name="text_view">四处逛逛</string>
+    <string name="text_help">校园小巴</string>
+    <string name="text_user">快递服务</string>
+</resources>
